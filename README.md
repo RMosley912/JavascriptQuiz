@@ -1,5 +1,5 @@
 # JavascriptQuiz
-This is a timed multiple-choice quiz for Javascript that allows users to compare their scores with others
+This is a timed multiple-choice quiz for HTML that allows users to compare their scores with others
 
 
 ## User Story
@@ -25,3 +25,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+
+#Usage
+
+To use this quiz, simply 
