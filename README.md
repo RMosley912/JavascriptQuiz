@@ -29,3 +29,13 @@ THEN I can save my initials and my score
 #Usage
 
 To use this quiz, simply 
+
+![Screenshot 2023-07-16 105318](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/411e61ef-ef63-4faa-88df-6bc34d0afa97)
+
+
+![image](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/753ebce1-5a1c-4e70-858d-92c3a2273e25)
+
+
+![image](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/8e0a95ad-f7f0-41da-a56a-e9b98c5187a4)
+
+
