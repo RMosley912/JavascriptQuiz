@@ -30,17 +30,17 @@ THEN I can save my initials and my score
 
 To use this quiz, simply navigate to rmosley912.github.io/JavascriptQuiz/
 
-![Screenshot 2023-07-16 105318](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/411e61ef-ef63-4faa-88df-6bc34d0afa97)
+![Screenshot1](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/06d7ad15-771c-40df-8307-178153e71ac2)
 
 Click on Start Quiz to begin.
 
-
-![image](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/753ebce1-5a1c-4e70-858d-92c3a2273e25)
+![Screenshot2](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/91fa9278-5d04-4cf6-8439-bfd3db9d6d52)
 
  Answering correctly will add to your score total and answering incorrectly will decrease your time.
 
-![image](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/8e0a95ad-f7f0-41da-a56a-e9b98c5187a4)
-
+![Screenshot3](https://github.com/RMosley912/JavascriptQuiz/assets/122495055/73370e26-1087-4cd2-aba3-ea6500a8df10)
 At the end you can submit your initials to add to the high scores. You can also click view high scores.
+
+
 
 
